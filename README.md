@@ -12,16 +12,18 @@ The BAPC is alocal surrogate approach for explainable time-series analysis. An i
 For comparison purposes, we utilize the formulation of **LIME** as proposed in the paper:  
 ["LIME for Time Series"](https://arxiv.org/abs/2109.08438).  
 
-The implementation of this formulation is available in the repository [ts-mule](https://github.com/dbvis-ukon/ts-mule). To simplify usage, we have included the relevant files from `ts-mule` in this repository under the folder `1_tsmule`.
+The implementation of this formulation is available in the repository [ts-mule](https://github.com/dbvis-ukon/ts-mule). To simplify usage, we have included the relevant files from `ts-mule` in this repository under the folder `5_external`.
 
 ## Repository Structure
 
 ```bash
-├── 1_tsmule/          # Contains files from the ts-mule repository for convenience
+├── 1_docs/            # Place here relevant documents, empty for now.
 ├── 2_data/            # Datasets used in the paper
 ├── 3_code/            # Source code
 ├── 4_results/         # Resulting figures
+├── 5_external/        # Source code of external package tsmule
 ├── README.md          # Project documentation (this file)
+├── pitsa.yaml         # File for creating the virtual environment (see below)
 ```
 
 ## Instalation
