@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pitsa
+Version: 1.0.0
+Summary: Python Interpretable Time Series Analysis
+Author:  alfredo.lopez@scch.at
+License: MIT

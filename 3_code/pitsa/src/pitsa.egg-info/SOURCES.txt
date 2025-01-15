@@ -1,0 +1,7 @@
+setup.py
+src/pitsa/__init__.py
+src/pitsa.egg-info/PKG-INFO
+src/pitsa.egg-info/SOURCES.txt
+src/pitsa.egg-info/dependency_links.txt
+src/pitsa.egg-info/not-zip-safe
+src/pitsa.egg-info/top_level.txt
